@@ -17,4 +17,4 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 6. Cannot read file using welly 0.3.3. Absurd line breaks after the Depth column in the ~A section. [ex6_1045400092.las](examples/ex6_1045400092.las).
 
-7. Cannot read file using welly 0.3.3. Missing `~Parameter` information section. Also Suspiciously long `~Other` section. (ex7_1045627887.las)[examples/ex7_1045627887.las]
+7. Cannot read file using welly 0.3.3. Missing `~Parameter` information section. Also Suspiciously long `~Other` section. [ex7_1045627887.las](examples/ex7_1045627887.las)
