@@ -15,4 +15,4 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 5. Cannot read file using welly 0.3.3. Reason unknown [ex5_1045399772.las](examples/ex5_1045399772.las).
 
-6. Cannot read file using welly 0.3.3. Reason unknown [ex6_1045400092.las](examples/ex6_1045400092.las).
+6. Cannot read file using welly 0.3.3. Absurd line breaks after the Depth column in the ~A section. [ex6_1045400092.las](examples/ex6_1045400092.las).
