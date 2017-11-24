@@ -14,3 +14,5 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 4. Missing `~Parameter` header section. [ex4_1044782786.las](examples/ex4_1044782786.las)
 
 5. Cannot read file using welly 0.3.3. Reason unknown [ex5_1045399772.las](examples/ex5_1045399772.las).
+
+6. Cannot read file using welly 0.3.3. Reason unknown [ex6_1045400092.las](examples/ex6_1045400092.las).
