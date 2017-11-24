@@ -95,7 +95,8 @@ OS4  .                                   :Other Services Line 4
 OS5  .                                   :Other Services Line 5
 R1   .        THANK YOU FOR CHOOSING SCHLUMBERGER OF ELK CITY  OK! 580-225-4300 :Remarks Line 1
 R2   .        YOUR CREW TODAY  MATT  SASHA  NICKY  AND MARK. :Remarks Line 2
-R3   .        TOOL STRING RUN AS PER TOOL SKETCH.
+R3   .        TOOL STRING RUN AS PER TOOL SKETCH.
+
 ALL FORMATS AND PRESENTATIONS AS PER CLIENT REQUEST. :Remarks Line 3
 R4   .        LOGS COMPUTED ON A LIMESTONE MATRIX  MDEN = 2.71 G/CC. :Remarks Line 4
 R5   .        SOURCE OF MAXIMUM RECORDED TEMPERATURE IS THE HGNS TEMPERATURE SENSOR  CTEM = 93.21 DEG. F. :Remarks Line 5
