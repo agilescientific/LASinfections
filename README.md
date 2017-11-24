@@ -5,9 +5,9 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 ## Examples
 
-1. Data and Description fields in header are flipped. [ex1_1044859098.las](examlpes/ex1_1044859098.las)
+1. Data and Description fields in header are flipped. [ex1_1044859098.las](examples/ex1_1044859098.las)
 
-2. Start depth is greater than Stop depth. [ex2_1044839000.las](ex2_1044839000.las)
+2. Start depth is greater than Stop depth. [examples/ex2_1044839000.las](ex2_1044839000.las)
 
-3. Degree symbol in Latitude and Longitude – may cause problems with some encodings. [ex3_1044839000.las](ex2_1044839000.las)
+3. Degree symbol in Latitude and Longitude – may cause problems with some encodings. [examples/ex3_1044839000.las](ex2_1044839000.las)
 
