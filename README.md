@@ -11,3 +11,5 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 3. Degree symbol in Latitude and Longitude – may cause problems with some encodings. [ex3_1044839000.las](examples/ex2_1044839000.las)
 
+4. Missing `~Parameter` header section. [ex4_1044782786.las](examples/ex4_1044782786.las)
+
