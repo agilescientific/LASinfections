@@ -21,16 +21,12 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 8. Data section (`~A`) named incorrectly. Named as `~Log_Data[1] | Log_Definition[1]` [ex8_1046089355.las](examples/ex8_1046089355.las)
 
-9. Depth column not listed in `~C` Curve information block (ex9_1046102218.las)[examples/ex9_1046102218.las]
+9. Depth column not listed in `~C` Curve information block [ex9_1046102218.las](examples/ex9_1046102218.las)
 
-10. Blank lines in header section (ex10_1046102494.las)[examples/ex10_1046102494.las]
+10. Blank lines in header section [ex10_1046102494.las](examples/ex10_1046102494.las)
 
-11. Fragment of numbers at end of file (ex11_1046102494.las)[examples/ex11_1046102494.las]
+11. Fragment of numbers at end of file [ex11_1046102494.las](examples/ex11_1046102494.las)
 
-12. Uses commas and semi-colons as delimeters in places. Also many possible other reasons this might not be loading (ex12_1046114346.las)[examples/ex12_1046114346.las]
+12. Uses commas and semi-colons as delimeters in places. Also many possible other reasons this might not be loading [ex12_1046114346.las](examples/ex12_1046114346.las)
 
-13. Reason unknown. (ex13_1046410674.las)[examples/ex13_1046410674.las]
-
-## Warnings or concerns
-
-1. Missing API number
+13. Reasons unknown. [ex13_1046410674.las](examples/ex13_1046410674.las)
