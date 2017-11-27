@@ -3,7 +3,7 @@ Examples of LAS files that have been infected, diseased, broken, and in need of 
 
 Upload the culprit file to the `examples` folder, and link to it in the description.
 
-## Examples
+## Will not load
 
 1. Data and Description fields in header are flipped. [ex1_1044859098.las](examples/ex1_1044859098.las)
 
@@ -15,6 +15,22 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 
 5. Cannot read file using welly 0.3.3. Reason unknown [ex5_1045399772.las](examples/ex5_1045399772.las).
 
-6. Cannot read file using welly 0.3.3. Absurd line breaks after the Depth column in the ~A section. [ex6_1045400092.las](examples/ex6_1045400092.las).
+6. Cannot read file using welly 0.3.3. Absurd line breaks after the Depth column in the ~A section. [ex6_1045400092.las](examples/ex6_1045400092.las)
 
 7. Cannot read file using welly 0.3.3. Missing `~Parameter` information section. Also Suspiciously long `~Other` section. [ex7_1045627887.las](examples/ex7_1045627887.las)
+
+8. Data section (`~A`) named incorrectly. Named as `~Log_Data[1] | Log_Definition[1]` [ex8_1046089355.las](examples/ex8_1046089355.las)
+
+9. Depth column not listed in `~C` Curve information block (ex9_1046102218.las)[examples/ex9_1046102218.las]
+
+10. Blank lines in header section (ex10_1046102494.las)[examples/ex10_1046102494.las]
+
+11. Fragment of numbers at end of file (ex11_1046102494.las)[examples/ex11_1046102494.las]
+
+12. Uses commas and semi-colons as delimeters in places. Also many possible other reasons this might not be loading (ex12_1046114346.las)[examples/ex12_1046114346.las]
+
+13. Reason unknown. (ex13_1046410674.las)[examples/ex13_1046410674.las]
+
+## Warnings or concerns
+
+1. Missing API number
