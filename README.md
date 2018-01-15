@@ -30,3 +30,8 @@ Upload the culprit file to the `examples` folder, and link to it in the descript
 12. Uses commas and semi-colons as delimeters in places. Also many possible other reasons this might not be loading [ex12_1046114346.las](examples/ex12_1046114346.las)
 
 13. Reasons unknown. [ex13_1046410674.las](examples/ex13_1046410674.las)
+
+14. Reasons unknown. [00-10-26-083-05W4-0.LAS](examples/00-10-26-083-05W4-0.LAS)	
+
+15. Reasons unknown. [00-10-04-081-05W4-0.LAS](examples/00-10-04-081-05W4-0.LAS)	
+
